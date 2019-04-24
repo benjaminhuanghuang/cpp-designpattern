@@ -1,5 +1,7 @@
 /*
   1 data  -> multi view or UI
+
+  Delegations + Inheritance
 */
 #include <vector>
 using namespace std;
